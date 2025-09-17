@@ -32,7 +32,7 @@ export default function SecaoPersonagens() {
             Muitas vezes ele é mostrado na natação, normalmente nu ou de sunga azul, depois de Mokkun sugerir. 
             Mais tarde, Tamotsu o magoa, já que não definiu sua relação com Pico."
       imagem="/pico-1.jpeg"
-      tags={["Mago", "Elfa", "Aventureira"]}
+      tags={["Principal", "Humano", "Loiro"]}
     />
     <CardPersonagem
       nome="Chico"
@@ -41,7 +41,7 @@ export default function SecaoPersonagens() {
             Ele nada frequentemente ao ar livre nu, no córrego perto de sua casa. Secretamente, vê a sua irmã mais velha se masturbar no quarto. Na maioria dos casos, Chico é ativo em Pico, apesar da idade. 
             Ele vive com sua irmã em uma casa grande, numa zona florestal isolada."
       imagem="/chico-1.jpeg"
-      tags={["Mago", "Humano", "Aventureira"]}
+      tags={["Ativo", "Humano", "Castanhos"]}
     />
     <CardPersonagem
       nome="Coco"
@@ -49,7 +49,7 @@ export default function SecaoPersonagens() {
             Coco tem relações sexuais com Pico e Chico. 
             Depois, inadvertidamente, provoca alguns atritos no relacionamento deles, Coco decide se distanciar do Pico e Chico, apesar de achá-los novamente na Torre de Tóquio."
       imagem="/coco-1.jpeg"
-      tags={["Guerreiro", "Humano", "Aventureiro"]}
+      tags={["Afeminado", "Humano", "Negros"]}
     />
     </div>
 
